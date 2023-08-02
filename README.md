@@ -19,7 +19,7 @@ We play epik Star Wars battle with TENNIS RACKOT
 >		at bottom of your seprate CSS file or 
 >		same HTML as in index file.
 
-_Rules:_<br>
+_Rules:
 _*1: *_<br>
 _*2: *_<br>
 _*3: *_<br>
