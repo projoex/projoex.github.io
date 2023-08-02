@@ -21,10 +21,5 @@ We play epik Star Wars battle with TENNIS RACKOT
 
 _Rules:
 
-_*1: *_<br>
-_*2: *_<br>
-_*3: *_<br>
-_*4: *_<br>
-_*5: *_<br>
-_*6: *_
-
+_*If using all 3 versions simply rename id's and code to use simultaneously.*_<br>
+_*If using single icon delete or comment other's HTML code*_
