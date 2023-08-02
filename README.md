@@ -8,16 +8,22 @@ We play epik Star Wars battle with TENNIS RACKOT
 
 ### Sith Ranks 
 
->		32x32
->		64x64
->		128x128
+>		Dark Lord of the Sith
+>		Sith Lord (serving on the Sith Council)
+>		Sith Lord (with a Darth title)
+>		Sith Lord (without a Darth title)
+>		Sith Master (Sith Whose not been made a Sith Lord but has taken on an apprentice)
+>		Sith Apprentice
+>		Sith Adept
 
 
 #### Jedi Ranks
->		Copy the HTML code where you want to use icons in your HTML file. 
->		Copy the corresponding CSS code to either 
->		at bottom of your seprate CSS file or 
->		same HTML as in index file.
+>		Grand Master (Serving on the Jedi Council)
+>		Master (Serving on the Jedi Council)
+>		Master (Not Serving on the Jedi Council)
+>		Knight
+>		Padawan
+>		Youngling
 
 
 
