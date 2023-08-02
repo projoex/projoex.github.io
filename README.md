@@ -29,4 +29,5 @@ We play epik Star Wars battle with TENNIS RACKOT
 
 *Rules:*<br>
 
-_*If using single icon delete or comment other's HTML code*_
+_*1: Test*<br>
+_*1: Test*
