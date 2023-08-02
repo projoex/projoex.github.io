@@ -20,10 +20,10 @@ We play epik Star Wars battle with TENNIS RACKOT
 >		same HTML as in index file.
 
 _Rules:_<br>
-_*1: *_
-_*2: *_
-_*3: *_
-_*4: *_
-_*5: *_
+_*1: *_<br>
+_*2: *_<br>
+_*3: *_<br>
+_*4: *_<br>
+_*5: *_<br>
 _*6: *_
 
