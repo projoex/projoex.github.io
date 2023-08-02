@@ -19,7 +19,8 @@ We play epik Star Wars battle with TENNIS RACKOT
 >		at bottom of your seprate CSS file or 
 >		same HTML as in index file.
 
-_Rules:
 
-_*If using all 3 versions simply rename id's and code to use simultaneously.*_<br>
+
+_*Rules:*_<br>
+
 _*If using single icon delete or comment other's HTML code*_
