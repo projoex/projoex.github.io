@@ -1,4 +1,4 @@
-## Year 6 Star Wars Group
+## Star Wars Group
 ================
 
 We play epik Star Wars battle with TENNIS RACKOT
